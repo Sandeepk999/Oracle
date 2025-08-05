@@ -69,7 +69,7 @@ Result will be the output records with CSV output
 ### for otherwise SQL
 Reuslt will the `affected_row_count` and integer value
 
-![Text_from_Image](README_02.png)
+![Text_from_Image](README_02.PNG)
 
 
 ## Parameter setting examples
@@ -87,7 +87,7 @@ values
 
 
 
-![Text_from_Image](README_01.png)
+![Text_from_Image](README_01.PNG)
 
 
 
